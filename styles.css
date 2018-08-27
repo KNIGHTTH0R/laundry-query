@@ -1,0 +1,121 @@
+#back{
+
+  margin-left: 100px;
+}
+
+
+
+#guest_form{
+width: 50%;
+}
+
+#login, #logout{
+ /* background-color: yellow;*/
+  margin-left: 300px;
+}
+
+#login_detail,#guest,#guest1,#guest2,#guest{
+  margin-left:100px;
+}
+
+
+#welcome{
+  font-family: Arial, sans-serif;
+}
+
+/*
+a{
+  text-decoration: none;
+  text-align: right;
+}*/
+
+a{
+  text-decoration: none;
+  /*color:yellow;*/
+  font-size: 20px;
+}
+
+a:link{
+  color:red;
+}
+
+a:visited{
+  color: green;
+}
+
+a:hover{
+   color: blue;
+   text-decoration: underline;
+   font-size: 25px;
+}
+
+a:active{
+  color: orange;
+}
+
+#norecord{
+  margin-left: 150px;
+}
+body {
+  width     :800px;
+  margin    :20px auto;
+  background-color:#E6F3FE;
+ /*border    :1px solid #888;*/
+  font-size: 20px;
+}
+
+#guest_query_table {
+  border-collapse: collapse;
+  text-align: center;
+  margin:auto;
+  font-size: 40px;
+  font-family: "Times New Roman" ,Times, serif;
+}
+
+#guest_query_table td
+{
+  border: 1px solid;
+}
+
+#guest_query_table tr:nth-child(even) {
+  background-color: #6699ff;
+}
+tr:hover {background-color:#f5f5f5;}
+
+.main {
+ /* background-color: yellow;*/
+  text-align: right;
+  margin-left: 100px;
+  color: blue;
+  font-family: Apple Chancery, cursive;
+  font-size: 30px;
+  /*text-shadow: 2px 3px blue;*/
+}
+
+.appname {
+  text-align :center;
+  background :#eb8;
+  color      :#40d;
+  font-family:helvetica;
+  font-size  :20pt;
+  padding    :4px;
+}
+
+#button{
+	font-size: 16px;
+	cursor: pointer;
+	padding: 15px 30px;
+	width: 4em;
+	height: 2em;
+	//background-color: blue;
+}
+
+#index_form{
+  margin-left: 150px;
+  font-size: 2em;
+
+}
+
+/*input[type = text]{
+   width: 50%;
+}*/

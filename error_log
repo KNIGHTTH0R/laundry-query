@@ -1,0 +1,5 @@
+[08-Aug-2018 03:45:53 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jack'@'localhost' (using password: YES) in /home/slaric2014/public_html/laundry/functions.php on line 8
+[08-Aug-2018 03:46:41 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jack'@'localhost' (using password: YES) in /home/slaric2014/public_html/laundry/functions.php on line 8
+[08-Aug-2018 03:57:32 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jack'@'localhost' (using password: YES) in /home/slaric2014/public_html/laundry/functions.php on line 8
+[08-Aug-2018 03:57:52 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jack'@'localhost' (using password: YES) in /home/slaric2014/public_html/laundry/functions.php on line 8
+[08-Aug-2018 04:09:31 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'slaric'@'ip-107-180-3-194.ip.secureserver.net' (using password: YES) in /home/slaric2014/public_html/laundry/functions.php on line 8
